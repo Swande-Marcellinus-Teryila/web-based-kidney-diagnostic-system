@@ -1,0 +1,3 @@
+#denies visitor for indexing includes folder
+#Order allow,deny 
+#Deny from all
